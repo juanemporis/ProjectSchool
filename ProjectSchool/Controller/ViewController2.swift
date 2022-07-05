@@ -45,6 +45,7 @@ func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> U
     var cell = tableView.dequeueReusableCell(withIdentifier: "myCell")
     if cell == nil{
         cell = UITableViewCell(style: .default, reuseIdentifier: "myCell")
+        cell?.accessoryType = .disclosureIndicator
         
     }
     
