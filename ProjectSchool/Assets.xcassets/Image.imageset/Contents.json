@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Fondo-de-fiesta-de-cumplea-os-para-Baby-Shower-cartel-de-fotograf-a-de-Toy-Story.jpg_640x640.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
